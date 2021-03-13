@@ -5,12 +5,16 @@ New translations can be added with pull requests, or by contacting me through [t
 
 ## Credits
 
-Polish translations by Jakub Niklas.
+Polish by Jakub Niklas.
 
-Turkish translations by Çağla Spellar.
+Turkish by Çağla Spellar.
 
-French translations by [@LikanaWolf](https://twitter.com/LikanaWolf).
+French by [@LikanaWolf](https://twitter.com/LikanaWolf).
 
-Japanese translations by [@RobinZanden](https://twitter.com/RobinZanden).
+Japanese by [@RobinZanden](https://twitter.com/RobinZanden).
 
-German translations by [@kaera_art](https://www.instagram.com/kaera_art/).
+German by [@kaera_art](https://www.instagram.com/kaera_art/).
+
+Portuguese by Artur Barichello.
+
+Spanish by [@DungeonChannel](https://twitter.com/DungeonChannel).
