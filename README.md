@@ -18,3 +18,5 @@ German by [@kaera_art](https://www.instagram.com/kaera_art/).
 Portuguese by Artur Barichello.
 
 Spanish by [@DungeonChannel](https://twitter.com/DungeonChannel).
+
+Chinese by [RealxSCV](https://github.com/RealxSCV).
