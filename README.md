@@ -22,3 +22,5 @@ Spanish by [@DungeonChannel](https://twitter.com/DungeonChannel).
 Chinese by [RealxSCV](https://github.com/RealxSCV).
 
 Russian by [atributz](https://github.com/atributz).
+
+Ukrainian by Yuriy Mosiychuk.
