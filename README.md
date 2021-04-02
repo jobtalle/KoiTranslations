@@ -23,4 +23,6 @@ Chinese by [RealxSCV](https://github.com/RealxSCV).
 
 Russian by [atributz](https://github.com/atributz).
 
+Frisian by [Martijn de Boer](https://github.com/sexybiggetje).
+
 Ukrainian by Yuriy Mosiychuk.
