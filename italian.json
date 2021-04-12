@@ -1,0 +1,37 @@
+
+  "INCLUDE": [
+    "units/metric.json"
+  ],
+  "TITLE_TOP": "Koi",
+  "TITLE_BOTTOM": "Farm",
+  "START": "Inizia da qui",
+  "CONTINUE": "Stagno salvato",
+  "NEW": "Stagno nuovo",
+  "SETTINGS": "Impostazioni",
+  "CONFIRM": "Sei sicuro?",
+  "SAVE": "Salvare",
+  "COPY": "Copiare",
+  "MENU": "Menù",
+  "VOLUME": "Volume",
+  "TOGGLE_GRASS_AUDIO": "Suoni di erba",
+  "TOGGLE_FULLSCREEN": "Attivare fullscreen",
+  "LANGUAGE": "Linguaggio",
+  "QUIT": "Salva ed esci",
+  "BACK": "Indietro",
+  "INFO_WEIGHT": "Peso",
+  "INFO_LENGTH": "Misura",
+  "INFO_AGE": "Età",
+  "INFO_FRY": "Avannotto",
+  "TUTORIAL_MOVE_FISH": "Per spostare il pesce, fai clic e tieni premuto mentre si muove sullo schermo.",
+  "TUTORIAL_MOVE_POND_1": "Lascia cadere nel stagno piccolo.",
+  "TUTORIAL_MOVE_POND_2": "Aggiungere un altro pesce per indurli a riprodursi.",
+  "TUTORIAL_BREED_WAIT": "Due pesci si riprodurranno dopo essere stati insieme per un po ', senza essere disturbati.",
+  "TUTORIAL_BREED_TOO_MANY": "Diminuire i pesci, finché ne rimangono solo due.",
+  "TUTORIAL_CROSSBREED": "Mescola pesci di diversi colori per creare nuove varietà",
+  "TUTORIAL_CREATE_CARD": "Sposta un pesce nella parte inferiore dello schermo per trasformarlo in una carta salvabile.",
+  "TUTORIAL_OPEN_BOOK_STORE": "Apri il libro per salvare un pesce.",
+  "TUTORIAL_STORE_CARD": "Trascina la carta in uno dei posti vuoti.",
+  "TUTORIAL_UNLOCK": "Scopri più pagine immagazzinando le carte suggerite.",
+  "TUTORIAL_CODE": "Questo è un "codice koi". Questa immagine può essere condivisa con altri giocatori, per condividere koi. Inserisci un codice koi nella finestra del gioco per aprirlo!"
+}
+
