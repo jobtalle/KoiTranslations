@@ -26,3 +26,5 @@ Russian by [atributz](https://github.com/atributz).
 Frisian by [Martijn de Boer](https://github.com/sexybiggetje).
 
 Ukrainian by Yuriy Mosiychuk.
+
+Italian by [gsobell](https://github.com/gsobell).
