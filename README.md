@@ -9,7 +9,7 @@ Polish by Jakub Niklas.
 
 Turkish by Çağla Spellar.
 
-French by [@LikanaWolf](https://twitter.com/LikanaWolf) and [Adrian Gaudebert](https://github.com/adngdb).
+French by [@LikanaWolf](https://twitter.com/LikanaWolf) and [Adrian Gaudebert](http://adrian.gaudebert.fr/).
 
 Japanese by [@RobinZanden](https://twitter.com/RobinZanden).
 
