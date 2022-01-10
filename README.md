@@ -28,3 +28,5 @@ Frisian by [Martijn de Boer](https://github.com/sexybiggetje).
 Ukrainian by Yuriy Mosiychuk.
 
 Italian by [gsobell](https://github.com/gsobell).
+
+Korean by Kohaku.
