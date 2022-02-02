@@ -32,3 +32,5 @@ Italian by [gsobell](https://github.com/gsobell).
 Korean by Kohaku.
 
 Filipino by Admiral Goose
+
+Indonesian by [Iqbal Anggoro](https://b4le.my.id/)
