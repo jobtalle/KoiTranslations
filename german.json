@@ -33,5 +33,6 @@
   "TUTORIAL_OPEN_BOOK_STORE": "Öffne das Sammelalbum, um die Karte zu speichern",
   "TUTORIAL_STORE_CARD": "Ziehe die Karte auf einen freien Platz, um sie abzulegen.",
   "TUTORIAL_UNLOCK": "Schalte weitere Seiten frei, indem du Karten auf den entsprechenden freien Platz legst.",
-  "TUTORIAL_CODE": "Das ist ein Koi Code. Dieses Bild kann mit anderen Spielern geteilt werden, um Kois auszutauschen. Ziehe einen Koi Code in das Spielfenster, um ihn zu öffnen."
+  "TUTORIAL_CODE": "Das ist ein Koi Code. Dieses Bild kann mit anderen Spielern geteilt werden, um Kois auszutauschen. Ziehe einen Koi Code in das Spielfenster, um ihn zu öffnen.",
+  "LOAD_CARD": "Load card"
 }

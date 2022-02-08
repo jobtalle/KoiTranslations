@@ -33,5 +33,6 @@
   "TUTORIAL_OPEN_BOOK_STORE": "Abre el libro de tarjetas para almacenar la tarjeta.",
   "TUTORIAL_STORE_CARD": "Arrastra la tarjeta a uno de los espacios en el libro para almacenarla.",
   "TUTORIAL_UNLOCK": "Desbloquea más páginas almacenando las tarjetas apropiadas en estos espacios.",
-  "TUTORIAL_CODE": "Este es un código koi. Esta imagen se puede compartir con otros jugadores para compartir koi. Suelta un código koi en la ventana del juego para abrirlo."
+  "TUTORIAL_CODE": "Este es un código koi. Esta imagen se puede compartir con otros jugadores para compartir koi. Suelta un código koi en la ventana del juego para abrirlo.",
+  "LOAD_CARD": "Load card"
 }
