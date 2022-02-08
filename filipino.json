@@ -33,5 +33,6 @@
   "TUTORIAL_OPEN_BOOK_STORE": "Buksan ang card book para itago ang card.",
   "TUTORIAL_STORE_CARD": "Maglagay ng kard sa isa sa mga slots para mapanatili ito.",
   "TUTORIAL_UNLOCK": "I-unlock ang higit pang mga pahina sa pamamagitan ng paglalagay ng mga karapatan card sa lahat ng mga slots.",
-  "TUTORIAL_CODE": "Ito ay isang code para sa isang koi. Ibahagi ito sa ibang tao. Kung nais mong gumamit ng code, i-drag ang code sa laro. "
+  "TUTORIAL_CODE": "Ito ay isang code para sa isang koi. Ibahagi ito sa ibang tao. Kung nais mong gumamit ng code, i-drag ang code sa laro. ",
+  "LOAD_CARD": "Load card"
 }

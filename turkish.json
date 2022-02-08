@@ -33,5 +33,6 @@
   "TUTORIAL_OPEN_BOOK_STORE": "Kartı depolamak için kart kitabını açın.",
   "TUTORIAL_STORE_CARD": "Kartı depolamak için boş yerlerden birine sürükleyin.",
   "TUTORIAL_UNLOCK": "Doğru yerlere uygun kartları koyarak yeni sayfaların kilidini açın.",
-  "TUTORIAL_CODE": "Bu bir koi kodu. Bir koi balığını paylaşmak için bu resmi paylaşabilirsiniz. Açmak için koi kodunu oyun ekranına sürükleyin."
+  "TUTORIAL_CODE": "Bu bir koi kodu. Bir koi balığını paylaşmak için bu resmi paylaşabilirsiniz. Açmak için koi kodunu oyun ekranına sürükleyin.",
+  "LOAD_CARD": "Load card"
 }

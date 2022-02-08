@@ -33,5 +33,6 @@
   "TUTORIAL_OPEN_BOOK_STORE": "Otwórz książkę z kartami aby schować kartę.",
   "TUTORIAL_STORE_CARD": "Przeciągnij kartę w jedno z miejsc w książce, aby ją przechować.",
   "TUTORIAL_UNLOCK": "Odblokuj więcej stron, chowając tu odpowiednie karty.",
-  "TUTORIAL_CODE": "To jest kod koi. Możesz udostępnić ten obrazek z innym graczom aby udostępnić swojego koi. Przeciągnij obrazek na okno gry aby go otworzyć."
+  "TUTORIAL_CODE": "To jest kod koi. Możesz udostępnić ten obrazek z innym graczom aby udostępnić swojego koi. Przeciągnij obrazek na okno gry aby go otworzyć.",
+  "LOAD_CARD": "Load card"
 }

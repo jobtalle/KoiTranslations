@@ -33,5 +33,6 @@
   "TUTORIAL_OPEN_BOOK_STORE": "Abra o livro de cartas para guardá-la.",
   "TUTORIAL_STORE_CARD": "Arraste a carta até um espaço livre do livro para guardá-la.",
   "TUTORIAL_UNLOCK": "Desbloqueie mais páginas completando as lacunas vazias.",
-  "TUTORIAL_CODE": "Este é um código Koi. Esta imagem pode ser compartilhada com outros jogadores para compartilhar Kois. Arraste um código koi para a janela do jogo para abri-lo."
+  "TUTORIAL_CODE": "Este é um código Koi. Esta imagem pode ser compartilhada com outros jogadores para compartilhar Kois. Arraste um código koi para a janela do jogo para abri-lo.",
+  "LOAD_CARD": "Load card"
 }
