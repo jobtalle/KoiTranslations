@@ -34,5 +34,7 @@
   "TUTORIAL_STORE_CARD": "Ziehe die Karte auf einen freien Platz, um sie abzulegen.",
   "TUTORIAL_UNLOCK": "Schalte weitere Seiten frei, indem du Karten auf den entsprechenden freien Platz legst.",
   "TUTORIAL_CODE": "Das ist ein Koi Code. Dieses Bild kann mit anderen Spielern geteilt werden, um Kois auszutauschen. Ziehe einen Koi Code in das Spielfenster, um ihn zu öffnen.",
-  "LOAD_CARD": "Load card"
+  "LOAD_CARD": "Load card",
+  "LOADING": "Laden",
+  "TUTORIAL_SKIP": "Überspringen"
 }
