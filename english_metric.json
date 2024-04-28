@@ -34,5 +34,7 @@
   "TUTORIAL_STORE_CARD": "Drag the card into one of the book slots to store it.",
   "TUTORIAL_UNLOCK": "Unlock more pages by storing the appropriate cards in these slots.",
   "TUTORIAL_CODE": "This is a koi code. This image can be shared with other players to share koi. Drop a koi code into the game window to open it.",
-  "LOAD_CARD": "Load card"
+  "LOAD_CARD": "Load card",
+  "LOADING": "Loading",
+  "TUTORIAL_SKIP": "Skip"
 }

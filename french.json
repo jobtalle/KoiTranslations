@@ -34,5 +34,7 @@
   "TUTORIAL_STORE_CARD": "Faites glisser la carte dans l’un des emplacements pour la ranger.",
   "TUTORIAL_UNLOCK": "Déverrouillez plus de pages en stockant les cartes appropriées dans ces emplacements.",
   "TUTORIAL_CODE": "Ceci est un code koi. Cette image peut être partagée avec d’autres joueurs pour partager des koi. Déposez un code koi dans la fenêtre du jeu pour l’ouvrir.",
-  "LOAD_CARD": "Load card"
+  "LOAD_CARD": "Load card",
+  "LOADING": "Chargement",
+  "TUTORIAL_SKIP": "Passer"
 }

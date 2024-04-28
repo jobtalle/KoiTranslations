@@ -34,5 +34,7 @@
   "TUTORIAL_STORE_CARD": "将卡牌拖动至收藏格来储存它。",
   "TUTORIAL_UNLOCK": "把合适的卡牌放进这些格子中，就可以解锁下一页。",
   "TUTORIAL_CODE": "这是一个锦鲤码，你可以通过锦鲤码来把锦鲤分享给别的玩家。把锦鲤码拖动到游戏窗口内来使用它。",
-  "LOAD_CARD": "Load card"
+  "LOAD_CARD": "Load card",
+  "LOADING": "加载",
+  "TUTORIAL_SKIP": "跳过"
 }

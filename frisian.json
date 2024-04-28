@@ -34,5 +34,7 @@
   "TUTORIAL_STORE_CARD": "Sleep de kaart nei ien fan 'e lege plakken yn it boek om dizze te bewarje.",
   "TUTORIAL_UNLOCK": "Meitsje mear siden frij troch kaarten te sammeljen dy't hjir passe.",
   "TUTORIAL_CODE": "Dit is in koi-koade. Dizze ôfbylding kin dield wurde mei oare spilers om koi te dielen. Sleep in koi-koade yn it spultsje om dizze te laden.",
-  "LOAD_CARD": "Load card"
+  "LOAD_CARD": "Load card",
+  "LOADING": "Laden",
+  "TUTORIAL_SKIP": "Oerslaan"
 }

@@ -34,5 +34,7 @@
   "TUTORIAL_STORE_CARD": "Kartı depolamak için boş yerlerden birine sürükleyin.",
   "TUTORIAL_UNLOCK": "Doğru yerlere uygun kartları koyarak yeni sayfaların kilidini açın.",
   "TUTORIAL_CODE": "Bu bir koi kodu. Bir koi balığını paylaşmak için bu resmi paylaşabilirsiniz. Açmak için koi kodunu oyun ekranına sürükleyin.",
-  "LOAD_CARD": "Load card"
+  "LOAD_CARD": "Load card",
+  "LOADING": "Yükleniyor",
+  "TUTORIAL_SKIP": "Atla"
 }
