@@ -34,3 +34,5 @@ Korean by Kohaku.
 Filipino by Admiral Goose
 
 Indonesian by [Iqbal Anggoro](https://b4le.my.id/)
+
+Serbian by [Radoš Milićev](https://github.com/rammba)
